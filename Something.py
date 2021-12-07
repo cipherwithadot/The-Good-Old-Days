@@ -69,7 +69,7 @@ def _credits(screen):
     effects = [
         Cycle(
             screen,
-            FigletText("That Is It!", font='big'),
+            FigletText("That's It!", font='big'),
             screen.height // 2 - 8,
             stop_frame=100),
         Cycle(
