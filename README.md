@@ -1,5 +1,5 @@
 # The-Good-Old-Days.
-Testing out Asciimatics by skidding the example script they gave :)
+Testing out Asciimatics with the example script they gave :)
 
 
 
